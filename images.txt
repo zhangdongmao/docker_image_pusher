@@ -1,4 +1,4 @@
 #支持私库
-xhofe/alist:latest
+zonty/nas-tools:2.9.1
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
